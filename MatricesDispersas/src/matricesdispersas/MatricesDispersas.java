@@ -7,7 +7,8 @@ public class MatricesDispersas {
     MenuMatrices menu = new MenuMatrices();
     menu.MosrarMenu();
 
-
+    Forma2 F2 = new Forma2();
+    F2.Construir();
     }
     
 }
